@@ -11,7 +11,7 @@ function Card() {
          <div
   className=" cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
@@ -23,7 +23,7 @@ function Card() {
 <div
   className="cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
@@ -35,7 +35,7 @@ function Card() {
 <div
   className="cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
@@ -51,7 +51,7 @@ function Card() {
          <div
   className="cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
@@ -63,7 +63,7 @@ function Card() {
 <div
   className="cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
@@ -75,7 +75,7 @@ function Card() {
 <div
   className="cursor-pointer transition-all duration-500 hover:translate-y-2 w-72 h-40  shadow-cyan-100 bg-neutral-50 rounded-lg shadow-xl flex flex-row items-center justify-evenly gap-4 px-4"
 >
-  <img src="/src/money-jar-71.svg" width="100px" alt="" /> 
+  <img src="https://i.ibb.co/k4QxC10/money-jar-71.png" width="100px" alt="" /> 
   <div>
     <span className="font-bold text-blue-400">Card title</span>
     <p className="line-clamp-3">
